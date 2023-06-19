@@ -5,7 +5,7 @@ function Titulo({ children }) {
         <div className={styles.texto}>
             {children}
         </div>
-    );
+    )
 }
 
 export default Titulo;
