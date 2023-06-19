@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import AppRoutes from 'routes';
 
 ReactDOM.render(
-  <h1>Olá, Mundo</h1>,
-  document.getElementById('root')
+  <AppRoutes />
 );
