@@ -1,0 +1,13 @@
+{
+    "musicas": [
+    {
+        "id": 1,
+        "titulo": "The Power of React",
+        "link": "https://www.youtube.com/watch?v=DJwirHviKms"
+    },
+    {
+        "id": 2,
+        "titulo": "My Component Will Go On",
+        "link": "https://www.youtube.com/watch?v=oSnIRlvFEnA"
+    }]
+}
